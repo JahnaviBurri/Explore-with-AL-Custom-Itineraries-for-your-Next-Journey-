@@ -1,4 +1,5 @@
 # Explore-with-AL-Custom-Itineraries-for-your-Next-Journey-
+# 🌍 TravelGuideAI
 
 TravelGuideAI is an AI-powered Travel Itinerary Generator built using Streamlit and Google Gemini AI.
 
